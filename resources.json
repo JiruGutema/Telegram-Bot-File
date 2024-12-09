@@ -1,0 +1,22 @@
+{
+  "math": [
+    {
+      "title": "Algebra Guide",
+      "file": "./index.html"
+    },
+    {
+      "title": "Calculus Notes",
+      "file": "./index.html"
+    }
+  ],
+  "science": [
+    {
+      "title": "Physics Workbook",
+      "file": "./index.html"
+    },
+    {
+      "title": "Chemistry Lab Manual",
+      "file": "./index.html"
+    }
+  ]
+}
